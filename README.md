@@ -8,7 +8,7 @@ This project aims to generate accurate and concise titles for news articles. By 
 Generate high-quality titles for news articles that accurately reflect the article's content, using NLP techniques and transformer models.
 
 ### Dataset
-- **Filename**: New_articles_combined.csv (~3GB)
+- **Filename**: [New_articles_combined.csv (~3GB)](https://drive.google.com/drive/folders/1GCD1ZpqQHXHcRrvNt_zt7lYpK00m78g3?usp=sharing)
 - **Source**: Combined news dataset from various providers, including CNN/DailyMail, BBC, and The New York Times. This dataset includes article content, which is used to train models to generate relevant and concise titles.
 
 Additional News Datasets:
